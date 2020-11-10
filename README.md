@@ -1,2 +1,2 @@
 # inequalities
-sample inequalities reposity for Hack4SocialGood
+Repository for the Poverty and Inequality challenge at the Hack4SocialGood
